@@ -13,7 +13,10 @@ Welcome to my portfolio! This showcases my journey through Cloud, DevOps, AI/ML,
 - AI/ML: SageMaker, Azure AI
 - Leadership & Governance
 
-## Portfolio Phases
+## 🚀 Portfolio Phases
+## 📂 Projects
+## 🛠 Tech Stack
+
 
 1. [Phase 1: Cloud & AWS](Phase-1_Cloud_AWS/README.md)
 2. [Phase 2: Azure & DevOps](Phase-2_Azure_DevOps/README.md)
