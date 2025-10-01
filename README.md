@@ -1,4 +1,8 @@
 # Engineering Manager Portfolio
+![AWS](https://img.shields.io/badge/AWS-Certified-blue)
+![Azure](https://img.shields.io/badge/Azure-Certified-lightblue)
+![Python](https://img.shields.io/badge/Python-3.11-green)
+
 
 Welcome to my portfolio! This showcases my journey through Cloud, DevOps, AI/ML, and Leadership projects.
 
